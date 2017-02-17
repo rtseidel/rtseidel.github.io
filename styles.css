@@ -13,12 +13,6 @@ body {
 	color: #35293c;
 }
 
-#container {
-    height: 100%;
-    width: 100%;
-	background: rgba(255,255,255,.6);
-}
-
 .jumbotron {
 	text-align: center;
 }
