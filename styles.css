@@ -19,9 +19,7 @@ body {
 	background: rgba(255,255,255,.6);
 }
 
-#splash {
-    max-width: 600px;
-	margin: 0 auto;
+.jumbotron {
 	text-align: center;
 }
 
