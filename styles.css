@@ -1,0 +1,42 @@
+.fullscreen {
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  overflow: auto;
+}
+
+body {
+	background: url("https://source.unsplash.com/1250x800/?restaurant") no-repeat center center fixed;
+	background-size: cover;
+	color: #35293c;
+}
+
+#container {
+    height: 100%;
+    width: 100%;
+	background: rgba(255,255,255,.6);
+}
+
+#splash {
+    max-width: 600px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+h1 {
+	font-family: "garamond-premier-pro-display";
+	font-size: 4em;
+	font-weight: 700;
+	margin: 0;
+	padding-top: 150px;
+	letter-spacing: 1px;
+}
+
+p {
+	font-family: 'Martel Sans', helvetica, arial, sans-serif;
+	font-weight: 200;
+	letter-spacing: 1px;
+}
+		
